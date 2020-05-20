@@ -184,6 +184,11 @@ input, select, textarea {
 		text-decoration: none;
 	}
 
+	.underIcon {
+		border-bottom-color: transparent;
+		color: #ffffff !important;
+	}
+
 		a:hover {
 			border-bottom-color: transparent;
 			color: #ffffff !important;
